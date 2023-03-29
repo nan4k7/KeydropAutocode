@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://img.shields.io/github/downloads/r3ge/KeydropAutocode/total?style=for-the-badge&logo=appveyor">
-  <img src="https://img.shields.io/github/stars/r3ge/KeydropAutocode?style=for-the-badge&logo=appveyor">
-  </p>
+  <img src="https://img.shields.io/github/downloads/nan4k7/KeydropAutocode/total?style=for-the-badge&logo=appveyor">
+  <img src="https://img.shields.io/github/stars/nan4k7/KeydropAutocode?style=for-the-badge&logo=appveyor">
+</p>
 
 
 ### KeydropAutocode
 [Youtube Tutorial](https://youtu.be/3tWlimRYWtY) - A little outdated
 
-[Leave a ⭐ for more updates](https://github.com/r3ge/KeydropAutocode/stargazers)
+[Leave a ⭐ for more updates](https://github.com/nan4k7/KeydropAutocode/stargazers)
 
 ### **Always update bot token when downloading a new verison of the app.**
 
@@ -27,10 +27,10 @@ If you change any communication with discord you might break the app.
 1.5 token_interval - Sets the time to refresh token in keydrop and never loose session.
 
 ### 2. Cookies
-In order to use the app you will need to get your cookies. To do that install [this chrome extension](https://chrome.google.com/webstore/detail/%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BCjson%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB%E5%87%BA%E5%8A%9B-for-puppet/nmckokihipjgplolmcmjakknndddifde?hl=en). and go to Keydrop.com.
-Then press on the puzzle piece to reveal the chrome extension which is located in the right corner of chrome and press on the extension
-A popup should appear. Press on the blue button named ‘Export cookies as JSON’
-That will trigger a download. A file called key-drop.com.cookies.json will be downloaded on your device. Place it in the cookies folder of the app.
+In order to use the app you will need to get your cookies. To do that install [this chrome extension](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg). and go to Keydrop.com.
+Then press on the puzzle piece to reveal the chrome extension which is located in the right corner of chrome and press on the extension 'EditThisCookie'
+A popup should appear. Go to settings and change your prefered export format for cookies to 'Netscape HTTP Cookie file'
+Press the export button and paste the copied items on a txt file under the cookies folder.
 
 
 Cookies expire, you will need to refresh them once per 36/h.
